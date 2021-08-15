@@ -19,4 +19,5 @@ public class EmployeeId implements Serializable {
     private String employeeName;
   //code for composite key
  //composite key includes Emp_Name & employeeId
+    //here 2 attributes uniquely identify an entity occurance
 }

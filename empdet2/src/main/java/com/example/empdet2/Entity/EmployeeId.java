@@ -18,4 +18,5 @@ public class EmployeeId implements Serializable {
   @Column(name = "Emp_Name")
     private String employeeName;
   //code for composite key
+ //composite key includes Emp_Name & employeeId
 }

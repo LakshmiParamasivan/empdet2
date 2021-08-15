@@ -38,4 +38,5 @@ public class DepartmentEntity implements Serializable {
     //public void setEmployeeEntityList(Set<EmployeeEntity> employeeEntityList) {
       //  this.employeeEntityList = employeeEntityList;
    // }
+    //mapping relationships
 }
